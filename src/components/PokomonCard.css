@@ -1,0 +1,18 @@
+
+h2{
+    color: darkblue;
+}
+
+.card{
+    background-color: yellow;
+    color: black;
+}
+
+
+li{
+    display: flex;
+    margin: 1rem;
+    width: 12rem;
+    background-color: lightgrey;
+}
+
